@@ -29,6 +29,7 @@ HTML, CSS, JS
 
 ### انجام‌دهندگان چالش
 
-| Github User                     | Source Code                     | Preview                         |
-| ------------------------------- | ------------------------------- | ------------------------------- |
-| [Example](https://example.com/) | [Example](https://example.com/) | [Example](https://example.com/) |
+| Github User                       | Source Code                    | Preview                         |
+| --------------------------------- | ------------------------------ | ------------------------------- |
+| [Your Name](https://example.com/) | [Source](https://example.com/) | [Preview](https://example.com/) |
+|                                   |                                |                                 |
