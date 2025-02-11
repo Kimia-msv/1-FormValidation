@@ -12,7 +12,7 @@ const participants = [
     preview: 'example.com',
   },
   {
-       name: 'Kimia',
+    name: 'Kimia',
     username: 'github.com/Kimia-msv',
     source: 'https://github.com/Kimia-msv/1-CodePeykar-FormValidation',
     preview: 'https://kimia-msv.github.io/1-CodePeykar-FormValidation/',
