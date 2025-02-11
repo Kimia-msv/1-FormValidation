@@ -11,4 +11,10 @@ const participants = [
     source: 'example.com',
     preview: 'example.com',
   },
+  {
+    name: 'Farzane',
+    username: 'https://github.com/farzane-na',
+    source: 'https://codepen.io/Farzane-Nazmabadi/pen/XJWraMY',
+    preview: 'https://codepen.io/Farzane-Nazmabadi/pen/XJWraMY',
+  },
 ];
