@@ -17,4 +17,10 @@ const participants = [
     source: 'https://codepen.io/Farzane-Nazmabadi/pen/XJWraMY',
     preview: 'https://codepen.io/Farzane-Nazmabadi/pen/XJWraMY',
   },
+  {
+    name: 'Kimia',
+    username: 'https://github.com/Kimia-msv',
+    source: 'https://github.com/Kimia-msv/1-CodePeykar-FormValidation',
+    preview: 'https://kimia-msv.github.io/1-CodePeykar-FormValidation/',
+  },
 ];
